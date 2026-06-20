@@ -83,7 +83,7 @@ Dataset → EDA → Preprocessing → Training → Testing → Evaluasi → Demo
 ### Google Colab (Direkomendasikan)
 
 1. Buka [Google Colab](https://colab.research.google.com)
-2. Upload file `student_ml.ipynb`
+2. Upload file `UAS Kecebut`
 3. Klik **Runtime → Run All**
 4. Selesai — dataset dan semua grafik dibuat otomatis
 
@@ -103,12 +103,6 @@ jupyter notebook student_ml.ipynb
 - **Pandas & NumPy** — Data manipulation
 - **Matplotlib & Seaborn** — Visualisasi
 - **Google Colab / Jupyter** — Environment
-
----
-
-## 🎥 Video Demo
-
-📺 [Link Video Demo](#) *(3–5 menit)*
 
 ---
 
